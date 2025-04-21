@@ -3,10 +3,7 @@ layout: page
 title: Speaker profile
 ---
 
-Desh is a PhD student at [Johns Hopkins University](https://www.cs.jhu.edu/), working in the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), advised by [Sanjeev Khudanpur](https://clsp.wse.jhu.edu/faculty-pages/sanjeev) and [Dan Povey](http://www.danielpovey.com/). His research interests lie in the application of machine learning methods for speech and language tasks. He is currently working on **speech recognition** (a.k.a speech-to-text) and **speaker diarization** (a.k.a who spoke when) for multi-party conversations. He wants to build systems which can identify the speaker and transcribe their speech in real time, and do this for all of the world's languages. 
+Omkar Mahesh Kashyap is a third-year undergraduate at [PES University](https://pes.edu/), Bangalore, majoring in Computer Science. Omkar's research lies at the intersection of Machine Learning and Natural Language Processing (NLP), with a keen interest in Graph Neural Networks (GNNs), Knowledge Graphs, Hypergraphs, Reinforcement Learning (RL), and Large Language Models (LLMs). Omkar Mahesh Kashyap will be joining the [University of California, Berkeley](https://www.berkeley.edu/) as a Research Intern, where he will work under the guidance of [Prasad Raghavendra](https://people.eecs.berkeley.edu/~prasad/)
 
-He spent summer 2021 building end-to-end multi-talker ASR systems at Microsoft. In summer 2022, he was an intern in the AI Speech team at Meta, where he explored target-speaker ASR models for improving transducer models in the presence of background speech. Desh has several publications at ICASSP, InterSpeech, SLT, and ASRU, with over 450 citations.
+He previously served as a Machine Learning Research Intern at the [Center for Data Sciences and Applied Machine Learning (CDSAML)](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/) at PES University, where he focused on optimizing aspect-based sentiment analysis through the application of hypergraph-based methods.
 
-Previously, he graduated from the Indian Institute of Technology Guwahati in 2017 with a major in Computer Science, where his thesis was on deep learning methods for biomedical text. He has worked on building smart assistants at Samsung Research (India) and was an intern at Microsoft India, devising statistics APIs for the Enterprise Commerce team.
-
-When he is not doing ML, he likes to work out, climb boulders, play guitar, and read fiction.
