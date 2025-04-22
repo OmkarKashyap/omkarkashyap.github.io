@@ -24,13 +24,13 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Projects : "Projects"
+  Projects: "Projects"
   Publications: "publications"
   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/static/img/omkar_pic.jpeg"
+avatar: "/static/img/omkar_pic.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -43,9 +43,9 @@ avatar: "/static/img/omkar_pic.jpeg"
 author:
   name: Omkar Mahesh Kashyap
   email: "omkar.m.kashyap@gmail.com"
-  github: OmkarKashyap    # eg. daattali
+  github: OmkarKashyap # eg. daattali
   linkedin: omkarkashyap
-  # twitter: rdesh26
+  # twitter:
 
 # Select which links to show in the footer
 footer-links-active:
@@ -74,7 +74,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "omkarkashyap.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "omkarkashyap.github.io" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -112,16 +112,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
     values:
       layout: "page"
@@ -148,8 +146,8 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl: "_posts"
+  media: "img"
   ignore:
     - 404.html
     - LICENSE
@@ -204,4 +202,4 @@ gems:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-theme: 
+theme:
