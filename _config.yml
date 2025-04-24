@@ -24,7 +24,7 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Projects: "Projects"
+  Projects: "projects"
   Publications: "publications"
   Resume: "resume"
 
@@ -124,6 +124,12 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+  - scope:
+      path: "_projects"
+      type: "projects"
+    values:
+      layout: "page"
+      show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
@@ -195,6 +201,12 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
 
 gems:
   - jekyll-paginate
